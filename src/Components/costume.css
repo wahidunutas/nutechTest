@@ -1,0 +1,24 @@
+html,
+body {
+    background-color: #e2e2e2;
+}
+
+
+.cards {
+    padding: 20px;
+    margin-top: 40px;
+    background-color: white;
+    min-height: calc(100vh - 80px);
+    border-radius: 20px;
+    box-shadow: 0px 7px 17px 0px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+.login_page {
+    padding: 5px 40px;
+}
+
+/* .buttons {
+    color: white;
+    text-decoration: none;
+} */
